@@ -1,5 +1,6 @@
 # course_project_3
 This repo contains the clean data and the original data described in the course project lesson https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project
+Here is the link to the data https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 1. **Codebook.txt** file is a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data.
 2. **run_analysis.R** file is he data preparation and then followed by the 5 steps required as described in the course project’s definition:
 > - Merges the training and the test sets to create one data set.
